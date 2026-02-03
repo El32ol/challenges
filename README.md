@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # challenges
 First CHallenge
 
@@ -72,3 +73,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> d6c73db (Set up a fresh Laravel app)
+=======
+# challenges
+First CHallenge
+>>>>>>> ade91f4c27cfbc44b4e4da64ffb7214c2ed5f80d
