@@ -32,12 +32,11 @@ class LoginController extends Controller
         if($oldPassword  && $password  == $oldPassword) {
             return false;
         }
-        
+
         if($password == $correctPassword) {
             Session::put('old_password', $correctPassword);
             return true;
         }
         return false;
-
     }
 }
